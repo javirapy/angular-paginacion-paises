@@ -1,6 +1,7 @@
 # PaisespaginacionFRONT
 
-![alt text](https://gitlab.com/javiralab/angular-paginacion-paises/-/blob/master/Captura_pantalla.png)
+ ![Screenshot](https://gitlab.com/javiralab/angular-paginacion-paises/-/blob/master/Captura_pantalla.png) 
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.2.
 
